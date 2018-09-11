@@ -6,7 +6,7 @@
 @fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@dcode)<br>
 @fa[github-square pad-right-icon]@css[git-handle](dcode)<br>
 @fa[reddit-square text-pink pad-right-icon]@css[reddit-handle](dcode)<br>
-@fa[slack pad-right-icon]@css[slack-handle](@dcode) rocknsm.slack.com <br>
+@fa[slack pad-right-icon]@css[slack-handle](@dcode) @fa[arrow-right] rocknsm.slack.com <br>
 @fa[envelope-o text-pink pad-right-icon]@css[contact-email text-ping](derek@rocknsm.io)
 
 @snapend
