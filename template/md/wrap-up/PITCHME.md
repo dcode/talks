@@ -1,64 +1,17 @@
----?image=template/img/pencils.jpg
-@title[Wrap-Up Templates]
-
-## @color[black](Wrap-Up<br>Slide Templates)
-
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
-
-+++?image=template/img/questions-1.png&size=80% auto
-@title[Questions #1]
-
-@snap[south-west template-note text-gray]
-Audience questions template.
-@snapend
-
-
-+++?image=template/img/questions-2.png&size=80% auto
-@title[Questions #2]
-
-@snap[south-west template-note text-gray]
-Audience questions template.
-@snapend
-
-
-+++?image=template/img/questions-3.png&size=auto 60%
-@title[Questions #3]
-
-@snap[south-west template-note text-gray]
-Audience questions template.
-@snapend
-
-
-+++
-@title[Questions #4]
-
-@snap[east span-50]
-![QUESTIONS-4](template/img/questions-4.png)
-@snapend
-
-@snap[south-west template-note text-gray]
-Audience questions template.
-@snapend
-
-
-+++?color=white
+---?color=white
 @title[Get In Touch #1]
 
 @snap[west]
 @css[contact-name](Derek Ditch)<br>
 @fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@dcode)<br>
 @fa[github-square pad-right-icon]@css[git-handle](dcode)<br>
+@fa[reddit-square text-pin pad-right-icon]@css[reddit-handle](dcode)<br>
 @fa[envelope-o text-pink pad-right-icon]@css[contact-email text-ping](derek@rocknsm.io)
 
 @snapend
 
-@snap[east]
-<h3>Contact Us</h3>
+@snap[east span-50]
+![QUESTIONS-4](template/img/questions-4.png)
 @snapend
 
 @snap[north-east template-note text-gray]
