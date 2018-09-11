@@ -30,7 +30,7 @@ The Fastest Way From Idea To Presentation.
 <br>
 For the best viewing experience, press F for fullscreen.
 
----?include=template/md/split-screen/PITCHME.md
+---?include=template/md/bro-intel-symantec/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
 
