@@ -24,7 +24,7 @@ Task: Find all the assets on your network using the dying cert CAs.
 - Find all the root CA certs
 - Put them into Bro intel framework
 - ...
-- Profit!
+- ~Profit~ Win!
 
 @olend
 
@@ -36,11 +36,11 @@ Consensus Proposal: https://groups.google.com/forum/#!topic/mozilla.dev.security
 
 CCA DB: https://ccadb.org/
 
----?code=template/src/bro/intel-4/bad-symantec-certs.dat&title=Load the data
+---?code=template/src/bro/intel/bad-symantec-certs.dat&title=Load the data
 
 @[1,2]
 
----?code=template/src/bro/intel-4/bad-cert-intel.bro&title=Load the intel
+---?code=template/src/bro/intel/bad-cert-intel.bro&title=Load the intel
 
 This isn't quite enough. Try to find the definition of `Intel::CERT_HASH` in
 the Bro documentation and explain.
