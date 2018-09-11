@@ -50,20 +50,11 @@ Audience questions template.
 @title[Get In Touch #1]
 
 @snap[west]
-@css[contact-name](Wendy Sesay)<br>
-@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@wendy)<br>
-@fa[envelope-o text-pink pad-right-icon]@css[contact-email text-pink](wendy@gmail.com)
-<br>
-<br>
-@css[contact-name](Abby Bauer)<br>
-@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@abbycode)<br>
-@fa[github-square pad-right-icon]@css[git-handle](abbycode)<br>
-@fa[envelope-o text-pink pad-right-icon]@css[contact-email text-pink](abcode@hotmail.com)
-<br>
-<br>
-@css[contact-name](Berry Nguyen)<br>
-@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@BerryNgu)<br>
-@fa[envelope-o text-pink pad-right-icon]@css[contact-email text-pink](B.Nguyen@gmail.com)
+@css[contact-name](Derek Ditch)<br>
+@fa[twitter-square text-blue pad-right-icon]@css[twitter-handle text-blue](@dcode)<br>
+@fa[github-square pad-right-icon]@css[git-handle](dcode)<br>
+@fa[envelope-o text-pink pad-right-icon]@css[contact-email text-ping](derek@rocknsm.io)
+
 @snapend
 
 @snap[east]
@@ -127,4 +118,3 @@ Contact info template.
 @snap[north-east template-note text-gray]
 Contact info template.
 @snapend
-
